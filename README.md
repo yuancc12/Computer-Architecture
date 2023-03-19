@@ -5,7 +5,8 @@
 + [練習專區](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
 + [作業專區](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [專題](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E5%B0%88%E9%A1%8C)
-+ [課堂PPT](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E6%95%99%E5%B8%AB%E7%89%88)
++ [課堂PPT教師版](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E6%95%99%E5%B8%AB%E7%89%88)
++ [課堂PP學生版](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E5%AD%B8%E7%94%9F%E7%89%88)
 
 # 簡介
 **授課教師:吳姈蓉教授**
