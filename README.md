@@ -1,4 +1,3 @@
-# Computer-Architecture
 # 111-2計算機結構
 # 目錄
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
