@@ -3,7 +3,7 @@
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E7%B7%B4%E7%BF%92%E5%B0%88%E5%8D%80)
-+ [作業專區](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
++ [作業專區](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E5%B0%88%E5%8D%80)
 + [專題](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E5%B0%88%E9%A1%8C)
 + [課堂PPT](https://github.com/yuancc12/Computer-Architecture/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt%E6%95%99%E5%B8%AB%E7%89%88)
 
@@ -32,3 +32,5 @@
 + [第一週](https://drive.google.com/file/d/1RG-tpFvXtcolhirgYDgn-9_vvHhqM7bi/view)
 + [第二週](https://drive.google.com/file/d/1mzowx0wK9M6RwSvzWHvN4FCuvI1SzfTi/view)
 + [第三週](https://drive.google.com/file/d/1gUW1-Jw98HSyaeyuKDFqHgIbU-9UEANF/view)
+# 課堂PPT（學生版）
++[總和](https://drive.google.com/drive/folders/1Ddrb8ijfc98BheSxXLdFtTRn24AhMGvh)
