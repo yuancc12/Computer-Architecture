@@ -36,5 +36,7 @@
 + [第四週-1](https://drive.google.com/file/d/1X0C7_h6ROKhuzbGl1FBBv1ayWbPrZ2ru/view)
 + [第四週-2](https://drive.google.com/file/d/1LhMALd2Hgk0aoADQ6lNXqpl8AA7VkFpr/view)
 + [第五週](https://drive.google.com/file/d/1rcEQM6mz4L5or83tNyvTRtN6nkTKiZPA/view)
++ [第六週](https://drive.google.com/file/d/1bSO3xB6JBhC5XVKgKGvW2rkNXazteBLQ/view)
+
 # 課堂PPT（學生版）
 + [總和](https://drive.google.com/drive/folders/1Ddrb8ijfc98BheSxXLdFtTRn24AhMGvh)
